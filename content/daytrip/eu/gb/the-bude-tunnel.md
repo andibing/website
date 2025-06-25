@@ -2,9 +2,9 @@
 slug: "daytrip/eu/gb/the-bude-tunnel"
 date: "2025-06-25T21:18:25.949Z"
 poster: "MikeBoo"
-lat: "50.814179"
-lng: "-4.517784"
-location: "7 Erdiston Ct, Bude EX23 8HE"
+lat: "50.831767"
+lng: "-4.547112"
+location: "Bude Tunnel, Bude, Cornwall, England, EX23 8ND, United Kingdom"
 title: "The Bude Tunnel"
 external_url: https://explorecornwall.uk/attractions/bude-tunnel/
 ---
